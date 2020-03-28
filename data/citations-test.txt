@@ -1,0 +1,400 @@
+U	.	Dayal	,	H	.	Garcia-Molina	,	M	.	Hsu	,	B	.	Kao	,	and	M	.	-	C	.	Shan	.	Third	generation	TP	monitors	:	A	database	challenge	.	In	ACM	SIGMOD	Conference	on	Management	of	Data	,	pages	393-397	,	Washington	,	D	.	C	.	,	May	1993	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	location	location	location	location	location	location	location	date	date	date	
+
+
+C	.	Qiao	and	R	.	Melhem	,	"	Reducing	Communication	Latency	with	Path	Multiplexing	in	Optically	Interconnected	Multiprocessor	Systems	"	,	Proc	.	of	HPCA-1	,	1995	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	date	date	
+
+
+D	.	Ourston	and	R	.	J	.	Mooney	.	Changing	the	Rules	:	A	Comprehensive	Approach	to	Theory	Refinement	.	In	Proceedings	of	the	Eighth	International	Conference	on	Machine	Learning	,	pages	485-489	,	1991	.	
+author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	
+
+
+Clark	,	K	.	L	.	,	Negation	as	Failure	,	in	:	H	.	Gallaire	and	J	.	Minker	(	eds	.	)	,	Logic	and	Data	Bases	,	Plenum	Press	,	New	York	,	1978	.	
+author	author	author	author	author	author	author	title	title	title	title	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	booktitle	booktitle	booktitle	booktitle	booktitle	publisher	publisher	publisher	location	location	location	date	date	
+
+
+Ancona	,	D	.	,	and	Zucca	,	E	.	An	algebraic	approach	to	mixins	and	modularity	.	In	Proc	.	Conference	on	Algebraic	and	Logic	Programming	(	Berlin	,	1996	)	,	
+author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	date	date	date	
+
+
+C	.	Ghezzi	,	D	.	Mandriolli	,	and	A	.	Morzenti	.	Trio	:	A	logic	language	for	executable	specifications	of	real-time	systems	.	Journal	of	Systems	and	Software	,	12	(	2	)	,	107-123	,	May	1990	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	journal	volume	volume	volume	volume	volume	pages	pages	date	date	date	
+
+
+Cohen	,	W	.	W	.	(	1992	)	.	Compiling	knowledge	into	an	explicit	bias	.	In	Proceedings	of	the	Ninth	International	Conference	on	Machine	Learning	.	
+author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	
+
+
+Etzioni	,	O	.	and	Weld	,	D	.	(	1994	)	A	Softbot-based	Interface	to	the	Internet	,	Comm	.	of	th	e	ACM	,	37	(	7	)	,	pages	72-76	.	
+author	author	author	author	author	author	author	author	author	date	date	date	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	journal	journal	volume	volume	volume	volume	volume	pages	pages	pages	
+
+
+R	.	Chandra	,	S	.	Devine	,	B	.	Verghese	,	A	.	Gupta	,	M	.	Rosenblum	,	Scheduling	and	Page	Migration	for	Multiprocessor	Compute	Servers	.	Proc	.	6th	Int'l	.	Conf	.	on	Architectural	Support	for	Programming	Languages	and	Operating	Systems	(	ASPLOS-VI	)	,	San	Jose	,	CA	,	pp	.	12-24	,	October	1994	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	location	location	pages	pages	pages	pages	date	date	date	
+
+
+D	.	Waltz	.	Understanding	line-drawings	of	scenes	with	shadows	.	Artificial	Intelligence	,	2	,	79-116	,	1971	.	
+author	author	author	author	title	title	title	title	title	title	title	journal	journal	journal	volume	volume	pages	pages	date	date	
+
+
+Langley	,	P	.	,	&	Simon	,	H	.	A	.	(	1995	)	.	Applications	of	machine	learning	and	rule	induction	.	Communications	of	the	ACM	,	38	(	11	)	,	55-64	.	
+author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	volume	volume	volume	volume	volume	pages	pages	
+
+
+Gmytrasiewicz	,	P	.	J	.	,	&	Durfee	,	E	.	H	.	(	1992	)	.	A	logic	of	knowledge	and	belief	for	recursive	modeling	:	Preliminary	report	.	In	Proceedings	of	the	Tenth	National	Conference	on	Artificial	Intelligence	,	pp	.	628-634	San	Jose	,	California	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	location	location	location	location	location	
+
+
+Baader	,	F	.	(	1991	)	.	Augmenting	concept	languages	by	transitive	closure	of	roles	:	An	alternative	to	terminological	cycles	.	In	Proc	.	of	the	12th	Int	.	Joint	Conf	.	on	Artificial	Intelligence	(	IJCAI-91	)	Sydney	,	Australia	.	
+author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	location	
+
+
+M	.	Peot	and	D	.	E	.	Smith	.	Threat-removal	strategies	for	partial-order	planning	.	In	Proceedings	of	the	Eleventh	National	Conference	on	Artificial	Intelligence	,	pages	492-499	,	Washington	,	D	.	C	.	,	1993	.	
+author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	location	location	location	location	location	location	location	date	date	
+
+
+Barry	Wilkinson	,	Digital	System	Design	Prentice	Hall	1987	.	
+author	author	author	booktitle	booktitle	booktitle	publisher	publisher	date	date	
+
+
+J	.	E	.	Dennis	and	R	.	B	.	Schnabel	.	Numerical	Methods	for	Unconstrained	Optimization	and	Nonlinear	Equations	.	Prentice-Hall	Series	in	Computational	Mathematics	.	Prentice-Hall	,	Inc	,	Englewood	Cliffs	,	New	Jersey	,	1983	.	
+author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	publisher	publisher	publisher	publisher	location	location	location	location	location	location	date	date	
+
+
+W	.	Li	.	Linearly	convergent	descent	methods	for	unconstrained	minimization	of	convex	quadratic	splines	.	Technical	Report	TR93-3	,	Department	of	Mathematics	and	Statistics	,	Old	Dominion	University	,	Norfolk	,	VA	23529	,	1993	.	Journal	of	Optimization	Theory	and	Applications	,	to	appear	.	
+author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	title	tech	tech	tech	tech	institution	institution	institution	institution	institution	institution	institution	institution	institution	institution	location	location	location	location	location	date	date	journal	journal	journal	journal	journal	journal	journal	note	note	note	
+
+
+K	.	Smith	,	W	.	Appelbe	,	and	K	.	Stirewalt	.	Incremental	dependence	analysis	for	interactive	parallelization	.	In	Proceedings	of	the	1990	ACM	International	Conference	on	Supercomputing	,	Amsterdam	,	The	Netherlands	,	June	1990	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	location	location	date	date	date	
+
+
+Hermenegildo	,	M	.	V	.	,	An	Abstract	Machine	for	Restricted	AND-parallel	Execution	of	Logic	Programs	,	in	Third	International	Conference	on	Logic	Programming	,	Springer-Verlag	,	Berlin	,	1986	.	
+author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	publisher	publisher	location	location	date	date	
+
+
+Ling	,	C	.	X	.	(	1995	)	.	Personal	communication	.	
+author	author	author	author	author	author	date	date	date	date	tech	tech	tech	
+
+
+Lars	Ole	Andersen	.	Program	Analysis	and	Specialization	for	the	C	Programming	Language	.	PhD	thesis	,	DIKU	,	University	of	Copenhagen	,	May	1994	.	
+author	author	author	author	title	title	title	title	title	title	title	title	title	title	tech	tech	tech	institution	institution	institution	institution	institution	institution	date	date	date	
+
+
+Cooper	,	G	.	F	.	(	1990	)	.	The	computational	complexity	of	probabilistic	inference	using	Bayesian	belief	networks	.	Artificial	Intelligence	,	42	(	2-3	)	,	393-405	.	
+author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	journal	journal	journal	volume	volume	volume	volume	volume	pages	pages	
+
+
+M	.	Reiman	,	and	B	.	Simon	.	An	Interpolation	Approximation	for	Queueing	Systems	with	Poisson	Input	.	Operations	Research	36	,	3	(	1988	)	,	454-469	.	
+author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	journal	journal	volume	volume	volume	date	date	date	date	pages	pages	
+
+
+M	.	Herlihy	and	J	.	Wing	,	"	Axioms	for	Concurrent	Objects	"	,	Proceedings	of	the	14th	ACM	Symposium	on	Principles	of	Programming	Languages	,	pp	.	13-26	,	1987	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	pages	date	date	
+
+
+Holte	,	R	.	C	.	,	Acker	,	L	.	E	.	,	&	Porter	,	B	.	W	.	(	1989	)	.	Concept	learning	and	the	problem	of	small	disjuncts	.	In	Proceedings	of	the	Eleventh	International	Joint	Conference	on	Artificial	Intelligence	,	pp	.	813-818	Detroit	.	Morgan	Kaufmann	.	415	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	location	location	publisher	publisher	publisher	pages	
+
+
+P	.	T	.	Zellweger	.	Interactions	between	high-level	debugging	and	optimised	code	.	PhD	thesis	,	Computer	Science	Division	,	University	of	California	,	Berkeley	,	1984	.	Published	as	Xerox	PARC	Technical	Report	CSL-84-5	.	
+author	author	author	author	author	author	title	title	title	title	title	title	title	title	tech	tech	tech	institution	institution	institution	institution	institution	institution	institution	institution	institution	institution	date	date	note	note	note	note	note	note	note	note	
+
+
+Oliker	,	S	.	,	Furst	,	M	.	,	&	Maimon	,	O	.	(	1992	)	.	A	distributed	genetic	algorithm	for	neural	network	design	and	training	.	Complex	Systems	,	6	,	459-477	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	journal	journal	journal	volume	volume	pages	pages	
+
+
+B	.	K	.	P	.	Horn	.	Robot	Vision	.	MIT	Press	,	Cambridge	,	MA	,	1986	.	
+author	author	author	author	author	author	author	author	title	title	title	publisher	publisher	publisher	location	location	location	location	date	date	
+
+
+Bederson	,	B	.	B	.	,	&	Hollan	,	J	.	D	.	,	Pad	+	+	:	A	zooming	graphical	interface	for	exploring	alternate	interface	physics	,	Proceedings	of	User	Interface	Software	and	Technology	(	UIST	94	)	1726	,	ACM	,	New	York	,	1994	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	date	date	
+
+
+A	.	Gupta	,	V	Harinarayan	,	D	.	Quass	.	"	Aggregate-Query	Processing	in	Data	Warehousing	Environments	"	,	Proceedings	of	the	21st	VLDB	Conference	,	Zurich	,	Swizerland	,	1995	.	
+author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	location	date	date	
+
+
+Deransart	,	P	.	,	Jourdan	,	M	.	,	and	Lorho	,	B	.	,	Attribute	Grammars	:	Definitions	,	Systems	and	Bibliography	,	Lecture	Notes	in	Computer	Science	,	Vol	.	323	,	Springer-Verlag	,	New	York	,	NY	(	1988	)	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	volume	volume	volume	volume	publisher	publisher	location	location	location	location	date	date	date	date	
+
+
+S	.	J	.	Eggers	,	D	.	R	.	Keppel	,	E	.	J	.	Koldinger	,	and	H	.	M	.	Levy	.	Techniques	for	efficient	inline	tracing	on	a	shared-memory	multiprocessor	.	In	Proceedings	of	the	International	Conference	on	Measurement	and	Modeling	of	Computer	Systems	,	pages	37-47	,	May	1990	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	date	
+
+
+R	.	Lipsett	,	C	.	Schaefer	,	C	.	Ussery	,	VHDL	:	Hardware	Description	and	Design	,	Kluwer	Academic	Publishers	,	1989	.	
+author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	publisher	publisher	publisher	publisher	date	date	
+
+
+S	.	Majumdar	,	D	.	Eager	,	and	R	.	Bunt	.	Scheduling	in	Multiprogrammed	Parallel	Systems	.	Proc	.	of	the	ACM	SIGMETRICS	Conf	.	on	Measurement	&	Modeling	of	Computer	Systems	16	,	1	,	(	May	1988	)	,	104-113	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	volume	volume	volume	volume	date	date	date	date	date	pages	pages	
+
+
+S	.	Carr	,	K	.	S	.	McKinley	,	and	C	.	-W	.	Tseng	.	Compiler	optimizations	for	improving	data	locality	.	In	Proceedings	of	the	Sixth	International	Conference	on	Architectural	Support	for	Programming	Languages	and	Operating	Systems	(	ASPLOS-VI	)	,	San	Jose	,	CA	,	October	1994	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	location	location	date	date	date	
+
+
+Fikes	,	R	.	E	.	,	&	Nilsson	,	N	.	J	.	(	1971	)	.	STRIPS	:	A	new	approach	to	the	application	of	theorem	proving	to	problem	solving	.	Artificial	Intelligence	,	2	,	189-208	.	Also	in	(	Allen	et	al	.	,	1990	)	.	Planning	for	Contingencies	:	A	Decision-based	Approach	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	title	title	title	title	journal	journal	journal	volume	volume	pages	pages	note	note	author	author	author	author	author	author	date	date	date	title	title	title	title	title	title	title	
+
+
+R	.	T	.	Snodgrass	.	The	Temporal	Query	Language	TQuel	.	ACM	TODS	,	12	(	2	)	,	247-298	,	June	1987	.	
+author	author	author	author	author	author	title	title	title	title	title	title	journal	journal	journal	volume	volume	volume	volume	volume	pages	pages	date	date	date	
+
+
+Harandi	,	M	.	T	.	,	Ning	,	J	.	Q	.	,	(	1990	)	,	Knowledge	Based	Program	Analysis	"	,	IEEE	Software	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	journal	journal	journal	
+
+
+R	.	Harper	and	G	.	Morrisett	.	Compiling	polymorphism	using	intensional	type	analysis	.	In	Conference	Record	of	the	22nd	Annual	ACM	Symposium	on	Principles	of	Programming	Languages	,	San	Francisco	,	CA	,	Jan	.	1995	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	location	location	date	date	date	date	
+
+
+S	.	Amarasinghe	and	M	.	Lam	.	Communication	optimization	and	code	generation	for	distributed	memory	machines	.	In	Proceedings	of	the	SIGPLAN	'93	Conference	on	Programming	Language	Design	and	Implementation	,	Albuquerque	,	NM	,	June	1993	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	location	date	date	date	
+
+
+Serra	,	J	.	(	1982	)	.	Image	Analysis	and	Mathematical	Morphology	.	Academic	Press	,	London	.	
+author	author	author	author	date	date	date	date	title	title	title	title	title	title	publisher	publisher	publisher	location	location	
+
+
+MacWhinney	,	B	.	(	1993	)	.	Connections	and	symbols	:	closing	the	gap	.	Cognition	,	49	(	3	)	,	291-296	.	
+author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	journal	journal	volume	volume	volume	volume	volume	pages	pages	
+
+
+L	.	Lovasz	and	N	.	Young	.	Lecture	notes	on	evasiveness	of	graph	properties	.	Technical	Report	CS-TR-317-91	,	Computer	Science	Department	,	Princeton	University	,	1991	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	tech	tech	tech	tech	institution	institution	institution	institution	institution	institution	institution	date	date	
+
+
+Kyriazis	,	G	.	C	.	,	Approximation	Orders	of	Principal	Shift-Invariant	Spaces	Generated	by	Box	Splines	,	Preprint	.	
+author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	tech	tech	
+
+
+Wettschereck	,	Dietrich	,	and	Thomas	G	.	Dietterich	,	(	1995	)	.	An	Experimental	Comparison	of	Nearest-Neighbor	and	Nearest-Hyperrectangle	Algorithms	.	Machine	Learning	,	Vol	.	19	,	No	.	1	,	pp	.	5-28	.	
+author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	journal	journal	journal	volume	volume	volume	volume	volume	volume	volume	volume	pages	pages	pages	pages	
+
+
+C	.	K	.	I	.	Williams	.	Combining	deformable	models	and	neural	networks	for	handprinted	digit	recognition	.	PhD	thesis	,	Dept	.	of	Computer	Science	,	University	of	Toronto	,	1994	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	tech	tech	tech	institution	institution	institution	institution	institution	institution	institution	institution	institution	institution	date	date	
+
+
+McKinsey	,	J	.	C	.	C	.	(	1943	)	.	The	decision	problem	for	some	classes	of	sentences	without	quantifier	.	Journal	of	Symbolic	Logic	,	8	(	3	)	,	61-76	.	
+author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	volume	volume	volume	volume	volume	pages	pages	
+
+
+Schaffer	,	C	.	(	1992	)	.	Sparse	data	and	the	effect	of	overfitting	avoidance	in	decision	tree	induction	.	In	AAAI-92	Proceedings	of	the	Tenth	National	Conference	on	Artificial	Intelligence	,	pp	.	147-152	San	Jose	,	CA	.	AAAI	Press	.	
+author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	location	location	location	location	location	publisher	publisher	publisher	
+
+
+Wermuth	,	N	.	,	&	Lauritzen	,	S	.	L	.	(	1983	)	.	Graphical	and	recursive	models	for	contingency	tables	.	Biometrika	,	70	,	537-552	.	
+author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	journal	journal	volume	volume	pages	pages	
+
+
+Murthy	,	S	.	K	.	,	Kasif	,	S	.	,	Salzberg	,	S	.	,	&	Beigel	,	R	.	(	1993	)	.	OC	1	Randomized	induction	of	oblique	decision	trees	.	In	Proceedings	of	the	Eleventh	National	Conference	on	Artificial	Intelligence	,	pp	.	322-327	.	Washington	,	D	.	C	.	MIT	Press	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	pages	location	location	location	location	location	location	publisher	publisher	publisher	
+
+
+Leroy	,	X	.	Typage	polymorphe	d'un	langage	algorithmique	.	PhD	thesis	,	Universite	Paris	7	,	1992	.	
+author	author	author	author	title	title	title	title	title	title	tech	tech	tech	institution	institution	date	date	date	date	
+
+
+R	.	Fikes	,	M	.	Cutkosky	,	T	.	Gruber	,	and	J	.	V	.	Baalen	.	Knowledge	Sharing	Technology	Project	Overview	.	Technical	Report	KSL-91-71	,	Knowledge	Systems	Laboratory	,	Stanford	University	,	1991	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	tech	tech	tech	tech	institution	institution	institution	institution	institution	institution	institution	date	date	
+
+
+Howard	Turtle	and	W	.	Bruce	Croft	.	Inference	networks	for	document	retrieval	.	In	Jean-Luc	Vidick	,	editor	,	Proceedings	of	the	13th	Annual	International	ACM-SIGIR	Conference	on	Research	and	Development	in	Information	Retrieval	,	pages	1-24	,	Brussels	,	Belgium	,	September	1990	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	editor	editor	editor	editor	editor	editor	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	location	location	location	location	date	date	date	
+
+
+Dwork	,	C	.	,	Kanellakis	,	P	.	C	.	,	and	Mitchell	,	J	.	C	.	,	On	the	sequential	nature	of	unification	,	Journal	of	Logic	Programming	1	pp	.	35-50	(	1984	)	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	journal	journal	journal	journal	volume	pages	pages	pages	date	date	date	date	
+
+
+Hill	,	P	.	M	.	and	Lloyd	,	J	.	W	.	,	The	Godel	Programming	Language	,	MIT	Press	,	Cambridge	,	Mass	.	,	1994	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	publisher	publisher	publisher	location	location	location	location	location	date	date	
+
+
+Gupta	,	R	.	,	Smolka	,	S	.	,	&	Bhaskar	,	S	.	(	1994	)	.	On	randomization	in	sequential	and	distributed	algorithms	.	ACM	Computing	Surveys	,	26	(	1	)	,	7-86	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	journal	journal	journal	journal	volume	volume	volume	volume	volume	pages	pages	
+
+
+Ventura	,	Dan	,	(	1995	)	.	On	Discretization	as	a	Preprocessing	Step	for	Supervised	Learning	Models	,	Masters	Thesis	,	Department	of	Computer	Science	,	Brigham	Young	University	.	
+author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	tech	tech	tech	institution	institution	institution	institution	institution	institution	institution	institution	institution	
+
+
+Plunkett	,	K	.	,	&	Marchman	,	V	.	(	1991	)	.	U-shaped	learning	and	frequency	effects	in	a	mul-tilayered	perceptron	:	Implications	for	child	language	acquisition	.	Cognition	,	38	,	43	-	102	.	
+author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	title	title	title	title	title	journal	journal	volume	volume	pages	pages	pages	pages	
+
+
+In	Wrobel	,	S	.	(	Ed	.	)	,	Proceedings	of	the	Fourth	International	Workshop	on	Inductive	Logic	Programming	Bad	Honnef/Bonn	,	Germany	.	
+editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	location	location	
+
+
+Tambe	,	M	.	(	1996	)	.	Tracking	dynamic	team	activity	.	In	Proceedings	of	the	National	Conference	on	Artificial	Intelligence	(	AAAI	)	.	
+author	author	author	author	date	date	date	date	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	
+
+
+Surajit	Chaudhuri	and	Moshe	Vardi	.	On	the	equivalence	of	recursive	and	nonrecursive	data-log	programs	.	In	The	Proceedings	of	the	PODS-92	,	pages	55-66	,	1992	.	
+author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	
+
+
+Sussman	,	G	.	J	.	(	1975	)	.	A	Computer	Model	of	Skill	Acquisition	.	New	York	:	American	Elsevier	.	
+author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	location	location	location	publisher	publisher	publisher	
+
+
+S	.	L	.	Peyton	Jones	&	P	.	L	.	Wadler	[	Jan	1993	]	,	"	Imperative	functional	programming	,	"	in	20th	ACM	Symposium	on	Principles	of	Programming	Languages	,	Charleston	,	ACM	,	71-84	.	
+author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	date	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	publisher	publisher	pages	pages	
+
+
+L	.	Hernquist	,	"	Vectorization	of	Tree	Traversals	,	"	Journal	of	Computational	Physics	,	vol	.	87	,	1990	.	
+author	author	author	author	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	volume	volume	volume	volume	date	date	
+
+
+Forbus	,	K	.	D	.	(	1989	)	.	Introducing	Actions	in	Qualitative	Simulation	.	Proceedings	of	IJCAI-89	,	1273-1278	.	
+author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	pages	pages	
+
+
+C	.	Baru	,	O	.	Frieder	,	D	.	Kandlur	,	and	M	.	Segal	.	Join	on	a	cube	:	Analysis	,	simulation	,	and	implementation	.	In	M	.	Kitsuregawa	and	H	.	Tanaka	,	editors	,	Database	Machines	and	Knowledge	Base	Machines	.	Kluwer	Academic	Publishers	,	1987	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	title	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	publisher	publisher	publisher	publisher	date	date	
+
+
+Krogh	,	A	.	,	&	Vedelsby	,	J	.	(	1995	)	.	Neural	network	ensembles	,	cross	validation	,	and	active	learning	.	In	Tesauro	,	G	.	,	Touretzky	,	D	.	,	&	Leen	,	T	.	(	Eds	.	)	,	Advances	in	Neural	Information	Processing	Systems	,	Vol	.	7	,	pp	.	231-238	,	Cambridge	,	MA	.	MIT	Press	.	
+author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	volume	volume	volume	volume	pages	pages	pages	pages	location	location	location	location	publisher	publisher	publisher	
+
+
+R	.	Graham	.	Bounds	on	multiprocessing	timing	anomalies	.	SIAM	Journal	of	Computing	,	17	416	-	429	,	1969	.	
+author	author	author	author	title	title	title	title	title	title	journal	journal	journal	journal	journal	volume	pages	pages	pages	pages	date	date	
+
+
+Spirtes	,	P	.	,	Glymour	,	C	.	,	&	Scheines	,	R	.	(	1993	)	.	Causation	,	Prediction	,	and	Search	.	Springer-Verlag	,	New	York	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	publisher	publisher	location	location	location	
+
+
+Hadzilacos	,	V	.	Issues	of	Fault	Tolerance	in	Concurrent	Computations	.	Ph	.	D	.	dissertation	,	Harvard	University	,	June	1984	.	
+author	author	author	author	title	title	title	title	title	title	title	title	tech	tech	tech	tech	tech	tech	institution	institution	institution	date	date	date	
+
+
+R	.	B	.	Kieburtz	,	B	.	Agapiev	and	J	.	Hook	.	Three	Monads	for	Continuations	.	In	Proceedings	of	the	ACM	SIGPLAN	Workshop	on	Continuations	,	Department	of	Computer	Science	,	Stanford	University	,	Report	No	.	STAN-CS-92-1462	,	June	1992	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	institution	institution	institution	institution	institution	institution	institution	institution	tech	tech	tech	tech	tech	date	date	date	
+
+
+Debray	,	S	.	K	.	and	Warren	,	D	.	S	.	,	Automatic	Mode	Inference	for	Logic	Programs	,	J	.	Logic	Programming	,	5	207-229	(	1988	)	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	volume	pages	date	date	date	date	
+
+
+Hauptman	,	H	.	,	&	Karle	,	J	.	(	1953	)	.	Solution	of	the	Phase	Problem	,	1	.	The	Centrosymmetric	Crystal	,	ACA	Monograph	No	.	3	.	Wilmington	:	Polycrystal	Book	Service	.	
+author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	title	journal	journal	volume	volume	volume	volume	location	location	publisher	publisher	publisher	publisher	
+
+
+S	.	Hiranandani	,	K	.	Kennedy	,	and	C	.	Tseng	.	Compiling	Fortran	D	for	MIMD	distributed-memory	machines	.	Communications	of	the	ACM	,	35	(	8	)	66-80	,	Aug	.	1992	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	volume	volume	volume	volume	pages	pages	date	date	date	date	
+
+
+N	.	Benvenuto	and	F	.	Piazza	.	On	the	Complex	Backpropagation	Algorithm	.	IEEE	Transactions	on	Signal	Processing	,	40	(	4	)	967-969	,	1992	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	journal	journal	journal	journal	journal	journal	volume	volume	volume	volume	pages	pages	date	date	
+
+
+Guziec	,	A	.	,	&	Ayache	,	N	.	(	1992	)	.	Smoothing	and	matching	of	3-d	space	curves	.	Visualization	in	Biomedical	Computing	,	Proc	.	SPIE	,	1808	,	259-273	.	
+author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	volume	volume	pages	pages	
+
+
+Mark	Keane	,	Padraig	Cunningham	,	Mike	Brady	,	and	Ruth	Byrne	,	editors	.	Proc	.	Seventh	Irish	Annual	Conference	of	AI	and	Cognitive	Science	.	Dublin	University	Press	,	1994	.	
+editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	publisher	publisher	publisher	publisher	date	date	
+
+
+Bourdoncle	,	F	.	Abstract	debugging	of	higher-order	imperative	languages	.	In	ACM	SIGPLAN	Conference	on	Programming	Language	Design	and	Implementation	,	pages	46-55	,	1993	.	
+author	author	author	author	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	
+
+
+M	.	J	.	Zekauskas	,	W	.	A	.	Sawdon	,	and	B	.	N	.	Bershad	.	Software	write	detection	for	distributed	shared	memory	.	In	Proceedings	of	the	First	USENIX	Symposium	on	Operating	System	Design	and	Implementation	,	pages	87-100	,	November	1994	.	27	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	date	pages	
+
+
+Thrun	,	T	.	,	Schwartz	,	A	.	(	1995	)	"	Finding	Structure	in	Reinforcement	Learning	,	"	in	Advances	in	Neural	Information	Processing	Systems	,	7	.	San	Mateo	:	Morgan	Kaufmann	.	
+author	author	author	author	author	author	author	author	author	date	date	date	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	location	location	location	publisher	publisher	publisher	
+
+
+W	.	W	.	Carlson	and	J	.	M	.	Draper	.	AC	for	the	T3D	.	Technical	Report	SRC-TR-95-141	,	Supercomputing	Research	Center	,	Bowie	,	MD	,	February	1995	.	
+author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	tech	tech	tech	tech	institution	institution	institution	institution	location	location	location	location	date	date	date	
+
+
+Ventura	,	Dan	,	(	1995	)	.	On	Discretization	as	a	Preprocessing	Step	for	Supervised	Learning	Models	,	Masters	Thesis	,	Department	of	Computer	Science	,	Brigham	Young	University	.	
+author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	title	title	title	tech	tech	tech	institution	institution	institution	institution	institution	institution	institution	institution	institution	
+
+
+J	.	Allen	and	J	.	Koomen	.	Planning	using	a	temporal	world	model	.	In	Proc	.	IJCAI	,	pages	741-747	,	1983	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	
+
+
+D	.	Terzopoulos	,	"	Image	Analysis	using	Multigrid	Relaxation	Methods	,	"	IEEE	Trans	.	Patt	.	Anal	.	Mach	.	Intell	.	,	Vol	.	8	,	pp	.	129-139	,	March	1986	.	
+author	author	author	author	title	title	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	journal	journal	journal	journal	journal	journal	journal	volume	volume	volume	volume	pages	pages	pages	pages	date	date	date	
+
+
+In	Bouma	,	H	.	,	&	Elsendoorn	,	A	.	G	.	(	Eds	.	)	,	Working	Models	of	Human	Perception	,	pp	.	391-410	.	Academic	Press	,	London	,	England	.	
+editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	editor	title	title	title	title	title	title	pages	pages	pages	pages	publisher	publisher	publisher	location	location	location	location	
+
+
+J	.	Fortes	and	B	.	Wah	,	Systolic	Arrays	|	from	Concept	to	Implementation	,	Computer	20	(	1987	)	,	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	journal	volume	date	date	date	date	
+
+
+Thomas	von	Eicken	,	David	E	.	Culler	,	Seth	Copen	Goldstein	,	and	Karl	Erik	Schauser	.	Active	messages	:	A	mechanism	for	integrated	communication	and	computation	.	In	Proceedings	of	the	19th	Annual	International	Symposium	on	Computer	Architecture	,	pages	256-266	,	May	1992	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	date	
+
+
+J	.	S	.	Huang	and	Y	.	C	.	Chow	.	Parallel	Sorting	and	Data	Partitioning	by	Sampling	.	In	Proceedings	of	the	7th	Computer	Software	and	Applications	Conference	,	pages	627-631	,	November	1983	.	
+author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	date	
+
+
+M	.	Galles	and	E	.	Williams	.	Performance	optimizations	,	implementation	,	and	verification	of	the	SGI	Challenge	multiprocessor	.	In	Proceedings	of	the	Twenty-Seventh	Hawaii	International	Conference	on	System	Sciences	,	volume	I	:	Architecture	,	pages	134-143	,	January	1994	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	date	
+
+
+O	.	Shechory	and	S	.	Kraus	.	Feasible	formation	of	stable	coalitions	among	autonomous	agents	in	general	environments	.	Computational	Intelligence	Journal	,	1995	.	Submitted	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	title	title	title	title	journal	journal	journal	journal	date	date	note	note	
+
+
+R	.	Gupta	,	"	Optimizing	Array	Bound	Checks	using	Flow	Analysis	,	"	ACM	Letters	on	Programming	Languages	and	Systems	,	Vol	.	2	,	Nos	.	1-4	,	pages	135-150	,	March	-	December	1994	.	
+author	author	author	author	title	title	title	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	journal	journal	journal	volume	volume	volume	volume	volume	volume	volume	volume	pages	pages	pages	date	date	date	date	date	
+
+
+Sun	Microsystems	.	Java	(	tm	)	:	Programming	for	the	Internet	.	http	:	//java	.	sun	.	com	.	
+institution	institution	institution	title	title	title	title	title	title	title	title	title	title	location	location	location	location	location	location	location	location	
+
+
+J	.	M	.	Ponte	and	W	.	B	.	Croft	,	Text	Segmentation	by	Topic	,	in	Proceedings	of	the	First	European	Conference	on	Research	and	Advanced	Technology	for	Digitial	Libraries	,	pp	.	120-129	,	1997	.	
+author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	pages	date	date	
+
+
+Dario	Giarrizzo	,	Matthias	Kaiserswerth	,	Thomas	Wicki	,	and	Robin	C	.	Williamson	.	High-speed	parallel	protocol	implementation	.	First	IFIP	WG6	.	1/WG6	.	4	International	Workshop	on	Protocols	for	High-Speed	Networks	,	pages	165-180	,	May	1989	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	date	
+
+
+P	.	K	.	Chrysanthis	and	K	.	Ramamritham	.	Synthesis	of	extended	transaction	models	using	ACTA	.	ACM	Transactions	on	Database	Systems	,	19	(	3	)	450-491	,	September	1994	.	
+author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	title	journal	journal	journal	journal	journal	journal	volume	volume	volume	volume	pages	pages	date	date	date	
+
+
+David	Chapman	.	Planning	for	conjunctive	goals	.	Artificial	Intelligence	,	32	,	1987	.	
+author	author	author	title	title	title	title	title	journal	journal	journal	volume	volume	date	date	
+
+
+P	.	Hsu	and	E	.	Davidson	,	"	Highly	Concurrent	Scalar	Processing	,	"	13th	Annual	International	Symposium	on	Computer	Architecture	,	pages	386-395	,	1986	.	
+author	author	author	author	author	author	author	author	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	date	date	
+
+
+LeBlanc	,	M	.	,	&	Tibshirani	,	R	.	(	1993	)	.	Combining	estimates	in	regression	and	classification	.	Tech	.	rep	.	,	Department	of	Statistics	,	U	.	of	Toronto	.	
+author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	tech	tech	tech	tech	tech	institution	institution	institution	institution	institution	institution	institution	institution	institution	
+
+
+R	.	Fagin	,	J	.	Halpern	,	and	M	.	Vardi	.	A	model-theoretic	analysis	of	knowledge	.	Journal	of	the	ACM	,	38	(	2	)	,	382-428	,	1991	.	
+author	author	author	author	author	author	author	author	author	author	author	author	author	title	title	title	title	title	title	journal	journal	journal	journal	journal	volume	volume	volume	volume	volume	pages	pages	date	date	
+
+
+Webb	,	G	.	I	.	,	&	Brkic	,	N	.	(	1993	)	.	Learning	decision	lists	by	prepending	inferred	rules	.	In	Proceedings	of	the	Australian	Workshop	on	Machine	Learning	and	Hybrid	Systems	,	pp	.	6-10	Melbourne	,	Australia	.	
+author	author	author	author	author	author	author	author	author	author	author	author	date	date	date	date	title	title	title	title	title	title	title	title	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	booktitle	pages	pages	pages	location	location	location	location	
+
+
